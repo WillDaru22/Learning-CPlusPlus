@@ -1,0 +1,4 @@
+John Doe 20 5.5 180 1
+
+citylocation
+CVS, 2 S Bedford St, 8:00am-10:00pm, 8
